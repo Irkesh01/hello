@@ -3,3 +3,4 @@ My new line
 Another new line
 htirhtq
 Hello, git!
+Hello gitrebase
